@@ -1,0 +1,26 @@
+{
+  "name": "node-cockroachdb",
+  "version": "1.0.0",
+  "description": "A POC for nodejs with cockroachdb",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "sequelize": "^4.37.6",
+    "sequelize-cockroachdb": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanaugustoos/node-cockroachdb.git"
+  },
+  "author": "Jean Augusto Silva <jeanaugustoos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeanaugustoos/node-cockroachdb/issues"
+  },
+  "homepage": "https://github.com/jeanaugustoos/node-cockroachdb#readme"
+}
